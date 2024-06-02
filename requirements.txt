@@ -1,0 +1,8 @@
+pytorch
+jupyter
+matplotlib
+feather-format
+pandas
+fit_common --index-url http://mirrors.tencent.com/repository/pypi/tencent_pypi/simple
+scikit-learn==1.0.2
+prettytable
